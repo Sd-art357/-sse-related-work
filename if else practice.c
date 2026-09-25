@@ -8,6 +8,9 @@ int main()
     {
         printf(" even number");
     }
+    if (x =1){
+        printf(" odd number ");
+    }
     else
     {
         printf(" odd number");
